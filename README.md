@@ -36,7 +36,7 @@ URL: https://demo.nopcommerce.com/
 * Test cases Execution Report
 * Bug Report
 * Image of Executed Test Cases in Jira
-* Image of Bugs Logged in jira
-* Image of Test Cycle
+* Image of Bugs Logged in Jira
+* Image of Test Cycle in Jira
 
   
