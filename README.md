@@ -31,9 +31,9 @@ URL: https://demo.nopcommerce.com/
 
 ## Deliverables
 
-* Feature List
-* Test Plan Document
-* Test Execution Report
-* Bug Report
+* Feature List - Feature List.pdf
+* Test Plan Document - 
+* Test Execution Report - 
+* Bug Report - 
 
   
