@@ -1,4 +1,4 @@
-# nopCommerce Demo – Manual Testing Mini Project
+# nopCommerce Website Testing
 
 ## Project Overview
 
@@ -6,12 +6,12 @@ Manual testing of the **nopCommerce demo e-commerce website** to verify its func
 
 ## Testing Scope
 
-* User Registration & Login
-* Product Search & Navigation
-* Product Details
-* Shopping Cart
-* Checkout & Order Placement
-* Other relevant UI and functional validations
+* User Account Module
+* Product Catalog Module
+* Search Module
+* Wishlist Module
+* Shopping Cart Module
+* Checkout Module
 
 ## Testing Activities
 
@@ -23,11 +23,9 @@ Manual testing of the **nopCommerce demo e-commerce website** to verify its func
 
 ## Deliverables
 
-* Test Cases
+* Feature List
+* Test Plan Document
 * Test Execution Report
 * Bug Report
 
-## Website
-
-nopCommerce Demo Website
-
+  
